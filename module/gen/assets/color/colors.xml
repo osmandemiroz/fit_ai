@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color: Teal for modern freshness -->
+    <color name="primary">#009688</color>
+    <!-- Primary dark: A darker shade of the primary color -->
+    <color name="primary_dark">#00796B</color>
+    <!-- Primary light: A lighter shade of the primary color -->
+    <color name="primary_light">#B2DFDB</color>
+    <!-- Secondary color: Coral for energy and modern look -->
+    <color name="secondary">#FF7043</color>
+    <!-- Secondary dark: A darker shade of the secondary color -->
+    <color name="secondary_dark">#E64A19</color>
+    <!-- Secondary light: A lighter shade of the secondary color -->
+    <color name="secondary_light">#FFCCBC</color>
+    
+    <!-- Background color for screens -->
+    <color name="background">#F5F5F5</color>
+    <!-- Surface color for cards and sheets -->
+    <color name="surface">#FFFFFF</color>
+    <!-- Color for primary text -->
+    <color name="text_primary">#212121</color>
+    <!-- Color for secondary text -->
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Error color -->
+    <color name="error">#F44336</color>
+    <!-- Link color -->
+    <color name="link">#0288D1</color>
+    
+    <!-- Colors for buttons -->
+    <color name="button_primary">#009688</color>
+    <color name="button_secondary">#FF7043</color>
+    <color name="button_disabled">#E0E0E0</color>
+    <color name="button_text">#FFFFFF</color>
+    
+    <!-- Colors for inputs and text fields -->
+    <color name="input_background">#FFFFFF</color>
+    <color name="input_border">#E0E0E0</color>
+    <color name="input_text">#212121</color>
+    <color name="input_hint">#BDBDBD</color>
+    
+    <!-- Colors for icons -->
+    <color name="icon_primary">#009688</color>
+    <color name="icon_secondary">#FF7043</color>
+    <color name="icon_disabled">#BDBDBD</color>
+    
+    <!-- Color for dividers -->
+    <color name="divider">#E0E0E0</color>
+</resources>

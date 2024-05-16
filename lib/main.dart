@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 
+/// This is the main application widget
 class MyApp extends StatelessWidget {
+  /// This is the constructor
   const MyApp({super.key});
 
   @override
