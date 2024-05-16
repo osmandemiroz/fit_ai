@@ -9,7 +9,7 @@
 .history
 .svn/
 migrate_working_dir/
-*.env
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -25,6 +25,8 @@ migrate_working_dir/
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+.vscode/
+.idea/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
@@ -42,7 +44,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Do not detect
-*.cc 
-*.cpp 
